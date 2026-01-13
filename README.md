@@ -6,7 +6,7 @@ Trabalhamos com **web, mobile e backend**, sempre buscando código limpo, escal�
 
 ---
 
-## 🧑‍💻 Sobre nós
+## 🧑‍💻 Sobre mim
 
 * 💼 Atuação em projetos **web, mobile e APIs**
 * 🧠 Foco em **soluções práticas para problemas reais**
@@ -66,8 +66,8 @@ Trabalhamos com **web, mobile e backend**, sempre buscando código limpo, escal�
 📫 Entre em contato para parcerias, freelas ou ideias:
 
 * 💼 GitHub: [https://github.com/simetria-studio](https://github.com/simetria-studio)
-* ✉️ Email: *(adicione aqui)*
-* 🔗 LinkedIn: *(adicione aqui)*
+* ✉️ Email: felipephplow@gmail.com
+*
 
 ---
 
